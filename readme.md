@@ -1,4 +1,4 @@
-# ζ( 1/2), 𝛾, and Their Role as Information Carriers in Infinite Series
+# ζ( 1/2), 𝛾, and similarities in their role in Infinite Series
 
 In the **harmonic series**, **Euler's constant** (\( \gamma \)) acts as a correction that bridges the gap between the discrete sum and the natural logarithm. It provides a necessary adjustment for the difference between discrete and continuous growth. While \( \gamma \) is significant for small values of \( n \), its relative importance diminishes as the leading term \( \ln(n) \) grows without bound.
 
